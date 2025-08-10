@@ -15,7 +15,7 @@
         "device_id": "ebc06c02a9b5be7d",
         "key": "key67890",
         "expirydate": "3-08-2025",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "0be92e4df60b1454",
