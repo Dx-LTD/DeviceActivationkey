@@ -18,9 +18,9 @@
         "Allowoffline": true
     },
     {
-        "device_id": "0be92e4df60b1454",
+        "device_id": "device456",
         "key": "key67890",
-        "expirydate": "3-09-2025",
-        "Allowoffline": true
+        "expirydate": "3-06-2025",
+        "Allowoffline": false
     }
 ]
