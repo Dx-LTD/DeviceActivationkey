@@ -38,19 +38,19 @@
     {
         "device_id": "device456",
         "key": "key123455",
-        "expirydate": "3-08-2026",
+        "expirydate": "3-12-2025",
         "Allowoffline": true
     },
     {
         "device_id": "device456",
         "key": "key123455",
-        "expirydate": "3-08-2026",
+        "expirydate": "3-12-2025",
         "Allowoffline": true
     },
     {
         "device_id": "device456",
         "key": "key123455",
-        "expirydate": "3-08-2026",
+        "expirydate": "3-12-2025",
         "Allowoffline": true
     }
 ]
