@@ -30,9 +30,9 @@
         "Allowoffline": false
     },
     {
-        "device_id": "442a22543ef9113e",
+        "device_id": "5b523f95ec7890ec",
         "key": "key6789099",
         "expirydate": "3-12-2025",
-        "Allowoffline": false
+        "Allowoffline": true
     }
 ]
