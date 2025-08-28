@@ -1,13 +1,13 @@
 6[
     {
         "device_id": "ebc06c02a9b5be7d",
-        "key": "key123455",
+        "key": "DXA2B2C3",
         "expirydate": "3-08-2026",
         "Allowoffline": true
     },
     {
-        "device_id": "device456",
-        "key": "key67890",
+        "device_id": "1f02de32eb857e92",
+        "key": "DXA2B2C3",
         "expirydate": "15-06-2026",
         "Allowoffline": false
     },
