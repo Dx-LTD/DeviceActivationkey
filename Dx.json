@@ -2,19 +2,19 @@
     {
         "device_id": "5be7d",
         "key": "A2B2C3",
-        "expirydate": "3-08-2026",
+        "expirydate": "31-12-2025",
         "Allowoffline": true
     },
     {
         "device_id": "a783229d986c2d9f",
         "key": "D1A2B2C3",
-        "expirydate": "15-06-2026",
+        "expirydate": "31-12-2025",
         "Allowoffline": false
     },
     {
         "device_id": "ae4449c88e82ef85",
         "key": "A2B2C3",
-        "expirydate": "3-12-2025",
+        "expirydate": "31-12-2025",
         "Allowoffline": false
     },
     {
