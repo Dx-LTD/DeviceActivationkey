@@ -3,13 +3,13 @@
         "device_id": "ebc06c02a9b5be7d",
         "key": "A2B2C3",
         "expirydate": "21-09-2025",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "36e26a3bed786e3a",
         "key": "A2B2C3",
         "expirydate": "21-09-2025",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "ae4449c88e82ef85",
