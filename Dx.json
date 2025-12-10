@@ -1,8 +1,8 @@
 [
     {
-        "device_id": "b8aa43d3bcaa1371",
+        "device_id": "b8aa43d3b1",
         "key": "DTxA2B2",
-        "expirydate": "25-11-2027",
+        "expirydate": "25-11-2025",
         "Allowoffline": false
     },
     {
@@ -18,7 +18,7 @@
         "Allowoffline": false
     },
     {
-        "device_id": "b8aa43d3bcaa1371",
+        "device_id": "aa1371",
         "key": "DTxA2B2",
         "expirydate": "21-09-2027",
         "Allowoffline": false
